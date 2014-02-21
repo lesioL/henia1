@@ -1,4 +1,6 @@
-henia1
-======
+## Pierwsze programy w C
 
-notatki z technologii internetowych
+*hello word*:
+``
+
+
